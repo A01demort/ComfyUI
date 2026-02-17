@@ -1,6 +1,6 @@
 <div align="center">
 
-# ComfyUI
+# ComfyUI - 26.02.17 Folk 버전
 **The most powerful and modular visual AI engine and application.**
 
 
